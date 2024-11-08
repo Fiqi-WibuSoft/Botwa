@@ -18,7 +18,7 @@ global.tempatDB = 'database.json'
 global.pairing_code = true
 
 global.fake = {
-	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
+	anonim: 'https://image.popmama.com/content-images/post/20240215/Gaya%20Makeup%20Freya%20JKT48%205-rIN7wtvn65B0GhXDjKgWwLxrgvvL5UBI.jpg',
 	thumbnailUrl: 'https://telegra.ph/file/fe4843a1261fc414542c4.jpg',
 	thumbnail: fs.readFileSync('./src/media/naze.png'),
 	docs: fs.readFileSync('./src/media/fake.pdf'),
